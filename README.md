@@ -6,6 +6,8 @@ I am a Full-Stack developer , proficient in (React.js, Next.js, Node.js, Typescr
 
 As a software engineer, i enjoy using my passion, curiosity and obsession in technology to solve real world problems. Thats why i like to work on projects that stand out.
 
+💪 I am a charcter who strives for the very best in everything i do, thus pushing to develope new skills to keeps my self updated with the rapidly evolving industry .
+😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Rober Kiyosaki, he compound effect by Darren Hardy, and the power of habit.
 
 🙅Talking about personal stuff:
 
