@@ -15,7 +15,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 - 💬 Ask me about anything, it will be an honor to help
 - 📫 You can reach me: at boatengstephen707@gmail.com
 
-- ⚡ Resume ...
--->
+
+
 👉: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats)
 
