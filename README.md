@@ -5,6 +5,8 @@
 I am a Full-Stack developer , proficient in (React.js, Next.js, Node.js, Typescript and Databases like Mongodb, PostgressQl and MySQL). 
 
 As a software engineer, i enjoy using my passion, curiosity and obsession in technology to solve real world problems. Thats why i like to work on projects that stand out.
+
+
 🙅Talking about personal stuff:
 
 
@@ -15,7 +17,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 - 💬 Ask me about anything, it will be an honor to help
 - 📫 You can reach me: at boatengstephen707@gmail.com
 
+My GitHub Metrics:
 
-
-👉: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats)
 
