@@ -1,6 +1,6 @@
 ### Hi there, I am Stephen Williams 👋
 
-🙋Glad to see you there.   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=red&right_color=green) 
+🙋Glad to see you there.   ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steveghana&left_color=red&right_color=green) 
 
 I am a Full-Stack developer , proficient in (React.js, Next.js, Node.js, Typescript and Databases like Mongodb, PostgressQl and MySQL). 
 
