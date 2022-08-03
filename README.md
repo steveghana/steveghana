@@ -13,7 +13,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 - 👯 I’m looking to collaborate on large scale microservices architecture project
 
 - 💬 Ask me about anything, it will be an honor to help
-- 📫 How to reach me: at boatengstephen707@gmail.com
+- 📫 You can reach me: at boatengstephen707@gmail.com
 
 - ⚡ Resume ...
 -->
