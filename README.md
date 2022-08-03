@@ -34,7 +34,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 
 💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry .
 
-😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Rober Kiyosaki, he compound effect by Darren Hardy, and the power of habit.
+😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Rober Kiyosaki, the compound effect by Darren Hardy, and the power of habit.
 
 🙅Talking about personal stuff:
 
