@@ -17,6 +17,5 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 
 - ⚡ Resume ...
 -->
-👉: <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steveghana&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+👉: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats)
+
