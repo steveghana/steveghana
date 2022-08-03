@@ -2,7 +2,7 @@
 
 🙋Glad to see you there. ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steveghana&left_color=red&right_color=green)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-steve-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-steve-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
 
 I am a Full-Stack developer , proficient in (React.js, Next.js, Node.js, Typescript and Databases like Mongodb, PostgressQl and MySQL).
 I Spend most of time coding outstanding projects.
