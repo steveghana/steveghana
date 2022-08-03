@@ -51,4 +51,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 <!--END_SECTION:waka-->
 
 My GitHub Metrics:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveghana)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
