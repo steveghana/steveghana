@@ -4,7 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-steve-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-steve-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
 
-I am a Full-Stack web developer , proficient in (React.js, Next.js, Node.js, Typescript and Databases like Mongodb, PostgressQl and MySQL).
+I am a Full-Stack web developer, proficient in (React.js, Next.js, Node.js, Typescript and SQL/ NoSQL Databases like Mongodb, PostgressQl and MySQL).
 I Spend most of time coding outstanding projects.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
@@ -53,7 +53,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
  <p align="center">         
  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 <p/>
-- <p align="center">
+ <p align="center">
 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
 <p/>
 - 💬 Ask me about anything, it will be an honor to help
