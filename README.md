@@ -1,6 +1,6 @@
 ### Hi there, I am Stephen Williams <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🙋Glad to see you there. ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steveghana&left_color=red&right_color=green)
+🙋Glad to see you there. ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steveghana&left_color=red&right_color=green) <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-steve-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-steve-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
 
@@ -46,11 +46,12 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 
 - 🔭 I enjoy building challenging side projects
 
-- <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
-I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
 - <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
-I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
+I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
+
 - <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/>
+I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
+
 <br/>
 
 - 👯 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project
