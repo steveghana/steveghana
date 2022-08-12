@@ -37,8 +37,7 @@ I Spend most of time coding outstanding projects.
 
 As a software engineer, i enjoy using my passion, curiosity and obsession in technology to solve real world problems. Thats why i like to work on projects that stand out.
 
-💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry .
-
+💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry.
 
 😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Robert Kiyosaki, the compound effect by Darren Hardy, and the power of habit.
 
@@ -48,26 +47,28 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
  🔭 I enjoy building challenging side projects
 <br/>
 <br/>
-<p align="center">         
+- <p align="center">         
  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
 <p/>
 <br/>
 <br/>
-<p align="center">         
+- <p align="center">         
  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 <p/>
 <br/>
 <br/>
-<p align="center">
+- <p align="center">
 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
 <p/>
 <br/>
+<br/>
 - 💬 Ask me about anything, it will be an honor to help
+<br/>
 <br/>
 - <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> You can reach me: at boatengstephen707@gmail.com
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 </br>
 </br>
    <p align="right">
