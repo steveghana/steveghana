@@ -5,17 +5,17 @@
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-steve-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-steve-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
+<br/>
 
 I am a Full-Stack web developer, proficient in (React.js, Next.js, Node.js, Typescript and SQL/ NoSQL Databases like Mongodb, PostgressQl and MySQL).
+<br/>
 <br/>
 I Spend most of my time coding outstanding projects.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 <P>
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-   <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+ <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
   <P/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -36,13 +36,11 @@ I Spend most of my time coding outstanding projects.
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <br/>
 <br/>
-<br/>
-
 As a software engineer, i enjoy using my passion, curiosity and obsession in technology to solve real world problems. Thats why i like to work on projects that stand out.
 
 💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry.
 
-😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Robert Kiyosaki, the compound effect by Darren Hardy, and the power of habit.
+😜 I also love reading books on personal development and finacial literacy. My favorite ones include Rich Dad poor Dad by Robert Kiyosaki, the compound effect by Darren Hardy, the Hard thing about Hard things by Ben Horowitz, Unscripted by MJ Demarco, and the power of habit.
 
 🙅Talking about personal stuff:
 <br/>
