@@ -43,52 +43,27 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 😜 I also love reading books on personal development and finacial literacy.My favorite ones include Rich Dad poor Dad by Robert Kiyosaki, the compound effect by Darren Hardy, and the power of habit.
 
 🙅Talking about personal stuff:
-
-- 🔭 I enjoy building challenging side projects
-
-- <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
-
-- <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
-
 <br/>
-
-- <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
-
+<br/>
+ 🔭 I enjoy building challenging side projects
+<br/>
+<br/>
+ <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
+<br/>
+<br/>
+ <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
+<br/>
+<br/>
+<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
+<br/>
 - 💬 Ask me about anything, it will be an honor to help
 - <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> You can reach me: at boatengstephen707@gmail.com
-
 <br />
 <br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </br>
-</br>
-</br>
-</br>
-  <br> 
-  I’m currently learning JavaScript
- </br>
-</br>
-</br>
-/br>- 👯 I’m looking to collaborate on any open source project.
- </br>
-</br>
-</br>
-</br></br></br></br></br>
- </br> How to reach me:   <a href="https://twitter.com/ujvari65">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
-  </a>
-
-   <a href="https://www.linkedin.com/in/aleksandra-ujvari-85235a210/">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
-  </a>
-    <a href="mailto:ujvari65@gmail.com">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-  
-  </br></br></br></br></br></br>
+</br>>
 <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
@@ -99,9 +74,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
   </a>
     <a href="mailto:ujvari65@gmail.com">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
-  </a>
-  </br></br></br></br></br>
-  </br></br></br></br></br></br>
+  <a/>
 
 
              
