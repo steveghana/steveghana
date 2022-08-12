@@ -45,12 +45,12 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 🙅Talking about personal stuff:
 
 - 🔭 I enjoy building challenging side projects
-- 
+
 - <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
 I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
-- <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </
+- <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
 I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
-<img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
+- <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/>
 <br/>
 
 - 👯 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project
