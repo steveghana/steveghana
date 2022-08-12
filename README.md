@@ -45,8 +45,6 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 <br/>
 <br/>
  🔭 I enjoy building challenging side projects
-<br/>
-<br/>
  <p align="center">         
  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
 <p/>
@@ -61,6 +59,8 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 <br/>
 <p align="center">
 <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/>
+<br/>
+<br/>
 You can reach me at:boatengstephen707@gmail.com
 <p/>
 </br>
