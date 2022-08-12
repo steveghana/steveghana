@@ -55,7 +55,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 - <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
 
 - 💬 Ask me about anything, it will be an honor to help
-- 📫 You can reach me: at boatengstephen707@gmail.com
+- <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> You can reach me: at boatengstephen707@gmail.com
 
 <br />
 <br />
@@ -76,7 +76,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 </br>
 </br>
 </br></br></br></br></br>
-<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
+ </br> How to reach me:   <a href="https://twitter.com/ujvari65">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
   </a>
