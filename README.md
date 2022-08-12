@@ -46,14 +46,14 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 
 - 🔭 I enjoy building challenging side projects
 - 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
-    Im currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
--   img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </
+- <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
+Im currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
+-   <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> </
 I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
 <br/>
 
-- 👯 I’m looking to collaborate on large scale microservices architecture project
+- 👯 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project
 
 
 
@@ -75,7 +75,7 @@ I’m currently learning Data structures and algorithms, and State Machines with
  </br>
 </br>
 </br>
-<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> </br>- 👯 I’m looking to collaborate on any open source project.
+/br>- 👯 I’m looking to collaborate on any open source project.
  </br>
 </br>
 </br>
@@ -107,11 +107,9 @@ I’m currently learning Data structures and algorithms, and State Machines with
   </br></br></br></br></br>
   </br></br></br></br></br></br>
 
- <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />  Tools and Frameworks</p>
- <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" font-weight: "bold" />  Tools and Frameworks</p>
 
              
    <p align="right">         
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=digia3d&theme=tokyonight&show_icons=true" />
-  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digia3d&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=steveghana&theme=tokyonight&show_icons=true" />
+  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&theme=tokyonight&show_icons=true" />
 </p>
