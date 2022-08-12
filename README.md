@@ -9,6 +9,11 @@ I Spend most of time coding outstanding projects.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
+             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
+  
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -40,8 +45,12 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 🙅Talking about personal stuff:
 
 - 🔭 I enjoy building challenging side projects
-- 🌱 I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
+- 
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
+I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 - 👯 I’m looking to collaborate on large scale microservices architecture project
+<img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
+
 
 - 💬 Ask me about anything, it will be an honor to help
 - 📫 You can reach me: at boatengstephen707@gmail.com
@@ -51,10 +60,6 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
-###  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/>
-</br>
-I’m currently working on a Bakery website for a friend.
 </br>
 </br>
 </br>
@@ -97,13 +102,7 @@ I’m currently working on a Bakery website for a friend.
 
  <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />  Tools and Frameworks</p>
  <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" font-weight: "bold" />  Tools and Frameworks</p>
-  <p align="center">
-  </br></br>
-      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/html.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/js.svg" height="35px" style="vertical-align:top margin:6px 4px" />
-             <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/visualstudio_code.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
-  </p>
+
              
    <p align="right">         
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=digia3d&theme=tokyonight&show_icons=true" />
