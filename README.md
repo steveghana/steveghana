@@ -50,3 +50,30 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+</br>
+<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> </br>- 👯 I’m looking to collaborate on any open source project.
+ </br>
+</br>
+</br>
+</br></br></br></br></br>
+<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> </br> How to reach me:   <a href="https://twitter.com/ujvari65">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px"  />
+  </a>
+
+   <a href="https://www.linkedin.com/in/aleksandra-ujvari-85235a210/">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
+  </a>
+    <a href="mailto:ujvari65@gmail.com">
+    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/gmail.png" height="30px" style="margin: 5px;" />
+  </a>
+  </br></br></br></br></br>
+  </br></br></br></br></br></br>
+
+ <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" />  Tools and Frameworks</p>
+ <p align="center">  ###  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" font-weight: "bold" />  Tools and Frameworks</p>
+  <p align="center">
+  </br></br>
+      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/css3.svg" height="35px" style="vertical-align:top margin:6px 4px" />
