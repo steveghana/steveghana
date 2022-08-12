@@ -48,28 +48,28 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
  🔭 I enjoy building challenging side projects
 <br/>
 <br/>
-<p align="left">         
+<p align="center">         
  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
 <p/>
 <br/>
 <br/>
-<p align="right">         
+<p align="center">         
  <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 <p/>
 <br/>
 <br/>
-<p align="right">
+<p align="center">
 <img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
 <p/>
 <br/>
 - 💬 Ask me about anything, it will be an honor to help
+<br/>
 - <img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/> You can reach me: at boatengstephen707@gmail.com
 <br/>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
-   <p align="right">         
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=steveghana&theme=tokyonight&show_icons=true" />
+   <p align="right">
   <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&theme=tokyonight&show_icons=true" />
 </p>
