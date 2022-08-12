@@ -58,7 +58,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
  💬 Ask me about anything, it will be an honor to help
 <p/>
 <p align="center">
-<img src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/>
+<img align="center" src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/>
 <br/>
 <br/>
 You can reach me at:boatengstephen707@gmail.com
