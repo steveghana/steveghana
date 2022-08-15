@@ -2,10 +2,13 @@
 
 🙋Glad to see you there. ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=steveghana&left_color=red&right_color=green) 
 <br/>
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right"  width="20%"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-steve-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephenwilliams/) [![Mail Badge](https://img.shields.io/badge/-steve-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:boatengstephen7070@gmail.com)
 <br/>
-<p align="left"> <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" /> </p>
+<p align="left"> 
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="center"  width="20%"/>
+  <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" /> 
+</p>
 I am a Full-Stack (FE Heavy) web developer, proficient in (React.js, Next.js, Node.js, Typescript and SQL/ NoSQL Databases like Mongodb, PostgressQl and MySQL).
 <br/>
 <br/>
@@ -41,19 +44,33 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry.
 
 😜 I also love reading books on personal development and finacial literacy. My favorite ones include Rich Dad poor Dad by Robert Kiyosaki, the compound effect by Darren Hardy, the Hard thing about Hard things by Ben Horowitz, Unscripted by MJ Demarco, and the power of habit.
-
+<br/>
+  <br/>
+  <p align="center">  
 🙅Talking about personal stuff:
+  </p>
 <br/>
 <br/>
- 🔭 I enjoy building challenging side projects
- <p align="center">         
- <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
+  <p align="center">  
+ - 🔭 I enjoy building challenging side projects
+  </p>
+  <p align="center">         
+ <img align="center" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> 
+  <br/>
+  <br/>
+  I'm currently working on a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React.
 <p/>
  <p align="center">         
- <img src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
+ <img align="center" src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> 
+    <br/>
+  <br/>
+ - I’m currently learning Data structures and algorithms, and State Machines with Xstate react.
 <p/>
- <p align="center">
-<img src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> I’m looking to collaborate on large scale microservices architecture project.
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/7EhiahshVQJMWngK3U/giphy.gif" align="left"  width="15%"/> 
+  <br/>
+  <br/>
+ - I’m looking to collaborate on large scale microservices architecture project.
 <p/>
  <p align="center">
  💬 Ask me about anything, it will be an honor to help
@@ -62,9 +79,9 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
 <img align="center" src="https://media.giphy.com/media/stdqoZQtv5JVM1mI1j/giphy.gif" align="left"  width="15%"/>
 <br/>
 <br/>
-You can reach me at:boatengstephen707@gmail.com
+You can reach me at: boatengstephen707@gmail.com
 <p/>
 
-   <p align="right">
-  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&theme=tokyonight&show_icons=true" />
-</p>
+
+  <img width='100%' height ='500px'  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveghana&theme=tokyonight&show_icons=true" />
+
