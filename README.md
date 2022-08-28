@@ -35,12 +35,10 @@
 <br/>
 <br/>
 <br/>
-I am a Full-Stack (FE Heavy) web developer, proficient in React.js, Next.js, Node.js, Typescript and SQL/ NoSQL Databases like Mongodb, PostgressQl and MySQL. Advanced state Management with Redux(Toolkit), State Machines with Xstate React, or context Api.
+I am a Full-Stack (FE Heavy) web developer, proficient in React.js && Typescript, Next.js && Typescript, Node.js && Typescript, and SQL || NoSQL Databases like Mongodb, PostgressQl and MySQL. Advanced state Management with Redux(Toolkit), State Machines with Xstate React, or context Api.
 <br/>
 <br/>
-
 I Spend most of my time coding outstanding projects.
-
 As a software engineer, i enjoy using my passion, curiosity and obsession in technology to solve real world problems. Thats why i like to work on projects that stand out.
 
 💪 I am a charcter who strives for the very best in everything i do, thus pushing to develop new skills to keep myself updated within the rapidly evolving industry.
