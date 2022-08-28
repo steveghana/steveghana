@@ -58,7 +58,7 @@ As a software engineer, i enjoy using my passion, curiosity and obsession in tec
  <img align="center" src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" align="left"  width="15%"/> 
   <br/>
   <br/>
-  I'm currently working on a Two projects, one is a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React and the other is a Back-End for School management system with Node.js Express.js and Mongodb with Mongoose ORM.
+  I'm currently working on a Two projects, one is a new Payment Portal application with React/Typescript, Nodejs/Typescript and State Machines with Xstate React, and the other is a Back-End for a School management system using Node.js Express.js and Mongodb with Mongoose ORM.
 <p/>
  <p align="center">         
  <img align="center" src="https://media.giphy.com/media/uGd4JqzJYaDVKbFlh4/giphy.gif" align="left"  width="15%"/> 
