@@ -23,7 +23,7 @@ I'm a Full-Stack (FE Heavy) web developer, proficient in React.js, Typescript, N
 
 - 🔭 I enjoy building challenging side projects.
   
-I'm currently working on two projects: a Payment Portal application with React/Typescript, Nodejs/Typescript, and State Machines with Xstate React, and a Back-End for a School Management System using Node.js, Express.js, and MongoDB with Mongoose ORM.
+I'm currently working on two projects: a Payment Portal application with React/Typescript, Nodejs/Typescript, and State Machines with Xstate React, and a System for developer outsourcing company using React and Nextjs.
 
 - 🌱 I'm currently learning Data Structures and Algorithms, and State Machines with Xstate React.
 
